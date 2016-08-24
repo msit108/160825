@@ -1,0 +1,6 @@
+﻿推薦兩個學習寫程式的動畫遊戲：
+https://codecombat.com/play
+（語言請選 JavaScript）
+
+light-Bot:
+http://www.kongregate.com/games/Coolio_Niato/light-bot?referrer=catchtest
